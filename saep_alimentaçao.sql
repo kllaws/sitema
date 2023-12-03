@@ -8,6 +8,7 @@ insert into Professores(nome,email,senha) values ('Carlos Jose','carlos@gmail.co
 insert into Turmas(Nome_turma,Professor_ID) values ('1 serie',1)
 insert into Turmas(Nome_turma,Professor_ID) values ('2 serie',1)
 insert into Turmas(Nome_turma,Professor_ID) values ('3 serie',2)
+insert into Turmas(Nome_turma,Professor_ID) values ('4 serie',3)
 
 
 
